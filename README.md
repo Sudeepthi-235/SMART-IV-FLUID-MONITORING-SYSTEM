@@ -33,4 +33,8 @@ The Smart IV Fluid Monitoring System is a web application that monitors IV fluid
 Sharanya Reddy  
 B.Tech Data Science
 
+## Contributor
+- Sudeepthi Pasupuleti
+- B.Tech Data Science
+
 live demo : https://smart-drip-monitoring.vercel.app/
